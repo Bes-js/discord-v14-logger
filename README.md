@@ -1,4 +1,4 @@
-# Discord v14 Level / XP Botu
+# Discord v14 Logger / Denetim Botu
 
 - yoğunluğumdan kaynaklı altyapıyı 1-2 hafta içinde paylaşıcam
 
