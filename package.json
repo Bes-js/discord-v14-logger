@@ -1,0 +1,39 @@
+{
+  "name": "v14-logger-bot",
+  "version": "0.0.1",
+  "description": "Beş v14 log / Denetim Botu",
+  "main": "beş_logger.js",
+  "scripts": {
+    "start": "node beş_logger.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Beş",
+  "license": "MIT",
+  "dependencies": {
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.7.1"
+  },
+  "keywords": [
+    "Beş#0005",
+    "Beş",
+    "Bes",
+    "5",
+    "v14",
+    "v14 logger",
+    "v14 log",
+    "v14-logger",
+    "discord-v14",
+    "v14 bot",
+    "discord v14",
+    "discord log botu",
+    "discord logger bot",
+    "discord denetim bot",
+    "discord",
+    "v14 denetim",
+    "denetim",
+    "logger",
+    "log"
+  ]
+}
