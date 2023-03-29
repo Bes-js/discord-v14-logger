@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "discord-logs": "^2.2.1",
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.8.0"
   },
   "keywords": [
     "Beş#0005",
